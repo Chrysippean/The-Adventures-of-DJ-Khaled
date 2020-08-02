@@ -7,4 +7,30 @@
 </h1>
 
 
-<p align="center">All you'll do is win win win no matter what.</p>
+<p align="center">The adventure you've always wished for.</p>
+
+## Instructions
+
+1. Download 'DJKHALED.capx'
+
+2. Go to the Construct Game Editor at https://editor.construct.net/
+
+3. Load from 'File' and select the capx file
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/where.png" width="500" />
+</div>
+
+4. Click the run button, and you're set to go!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/run.png" width="500" />
+</div>
+
+## How to play
+
+Move around using the arrow keys, and click to shut down the haters. You can fire hinges to the right, and keys to the left. Unlock a lion at 25 points, and another at 50.
+
+<p align="center">
+  Have fun winning!
+</p>
