@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/gamecover.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/gamecover.jpg" width="500" />
 </div>
 
 <h1 align="center">
