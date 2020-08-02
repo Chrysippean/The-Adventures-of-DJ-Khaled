@@ -41,7 +41,7 @@ You can fire hinges to the right, and keys to the left. Unlock a lion at 25 poin
   <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/gameplay.png" width="500" />
 </div>
 
-Try your best not to <b color="red">play yourself</b>!
+Try your best not to <p>play yourself</p>!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/death.png" width="500" />
