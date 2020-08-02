@@ -29,7 +29,24 @@
 
 ## How to play
 
-Move around using the arrow keys, and click to shut down the haters. You can fire hinges to the right, and keys to the left. Unlock a lion at 25 points, and another at 50.
+Move around using the arrow keys, and click to shut down the haters. 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/start.png" width="500" />
+</div>
+
+You can fire hinges to the right, and keys to the left. Unlock a lion at 25 points, and another at 50.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/gameplay.png" width="500" />
+</div>
+
+Try your best not to <b color="red">play yourself</b>!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chrysippean/The-Adventures-of-DJ-Khaled/gh-pages/images/death.png" width="500" />
+</div>
+
 
 <p align="center">
   Have fun winning!
